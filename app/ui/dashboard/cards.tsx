@@ -32,7 +32,7 @@ export default async function CardWrapper() {
         value={numberOfCustomers}
         type="customers"
       />
-    </>
+    </>  
   );
 }
 
