@@ -7,7 +7,7 @@ To access the dashboard, use the following demo login credentials:
 - **Username:** user@nextmail.com
 - **Password:** 123456
 
-Access the login page [here](https://nextjs-dashboard-psi-rouge.vercel.app/login?callbackUrl=https%3A%2F%2Fnextjs-dashboard-psi-rouge.vercel.app%2Flogin).
+You can view the live demo of the dashboard [here](https://nextjs-dashboard-psi-rouge.vercel.app/login?callbackUrl=https%3A%2F%2Fnextjs-dashboard-psi-rouge.vercel.app%2Flogin).
 
 
 ## Features
